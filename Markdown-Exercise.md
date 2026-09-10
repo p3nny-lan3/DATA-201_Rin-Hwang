@@ -38,4 +38,4 @@ To read The New York Times, click [here](https://www.nytimes.com/).
 
 ### Blockquote
 > "And in the end, the love you take is equal to the love you make."  
-- From *Abbey Road* by The Beatles
+From *Abbey Road* by The Beatles
