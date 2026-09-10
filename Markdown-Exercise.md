@@ -10,3 +10,11 @@ September 10, 2026
 *This is in italic text*
 
 ### Lists
+#### Ordered list
+1. Eat breakfast  
+2. Go to class
+3. Head to gym
+#### Unordered list
+- Milk
+- Eggs
+- Bread
