@@ -20,4 +20,4 @@ September 10, 2026
 - Bread
 
 ## Links/Hyperlinking
-This link is to [Rin Hwang's Data 201 repository] (https://github.com/p3nny-lan3/DATA-201_Rin-Hwang). 
+This link is to [Rin Hwang's Data 201 repository] (https://github.com/p3nny-lan3/DATA-201_Rin-Hwang)  
