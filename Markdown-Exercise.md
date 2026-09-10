@@ -59,4 +59,13 @@ greet("Rin Hwang")
 ### Task List
 - [X] Eat breakfast  
 - [ ] Attend classes  
-- [ ] Go to gym  
+- [ ] Go to gym
+
+### Using Footnotes Example
+The temperature of the sun is approximately 27 million degrees Fahrenheit (15 million degrees Celsius). [^1]  
+
+The US EPA was created in 1970. [^info]
+
+### Footnotes 
+[^1]: Source is from [NASA](https://science.nasa.gov/solar-system/temperatures-across-our-solar-system/).  
+[^info]: EPA stands for Environmental Protection Agency
