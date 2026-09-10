@@ -55,3 +55,8 @@ greet("Rin Hwang")
 | ---- | ------------- | ------ |
 | Tokyo Story  | 1953  | 4.4/5  |
 | Dune: Part Two  | 2024  | 4.1/5 |
+
+### Task List
+- [X] Eat breakfast  
+- [ ] Attend classes  
+- [ ] Go to gym  
