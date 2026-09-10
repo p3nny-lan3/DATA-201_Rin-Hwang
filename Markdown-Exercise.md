@@ -46,9 +46,9 @@ To start the script, use the `import pandas as pd` statement at the top.
 #### Multi-line code block  
 ```python
 def greet(name):
-    print(f"Hello, {name}!")
+    print(f"Hello, my name is {name}!")
 
-greet("World")
+greet("Rin Hwang")
 ```
 
 
