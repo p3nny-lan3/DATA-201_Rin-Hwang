@@ -3,4 +3,6 @@ Rin Hwang
 September 10, 2026
 
 ## Practice
-## Implement
+### Font
+**This is in bold text** 
+*This is in italic text*
