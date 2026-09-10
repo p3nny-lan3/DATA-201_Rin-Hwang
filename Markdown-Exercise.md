@@ -34,7 +34,7 @@ To read The New York Times, click [here](https://www.nytimes.com/).
 
 *Interstellar* (2014)  
 
-![*Interstellar* 2014]([https://i.ebayimg.com/images/g/pkIAAOSwhEtnPr8d/s-l1200.jpg](https://cdng.europosters.eu/pod_public/750/282807.jpg))  
+![*Interstellar* 2014](https://cdng.europosters.eu/pod_public/750/282807.jpg)
 
 ### Blockquote
 > "And in the end, the love you take is equal to the love you make." - From *Abbey Road* by The Beatles
