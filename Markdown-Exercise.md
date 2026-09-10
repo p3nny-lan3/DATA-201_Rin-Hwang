@@ -32,6 +32,9 @@ To read The New York Times, click [here](https://www.nytimes.com/).
 
 ![*Fallen Angels* 1995 French Release](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJRIRHTDqy20CIgMZukeFmsKnA6OvLiHXV1vEctxHEH--erzYnmLVeRkU&s=10)  
 
-*Interstellar* 2014  
+*Interstellar* (2014)  
 
 ![*Interstellar* 2014](https://i.ebayimg.com/images/g/pkIAAOSwhEtnPr8d/s-l1200.jpg)  
+
+### Blockquote
+> "And in the end, the love you take is equal to the love you make." - From *Abbey Road* by The Beatles
