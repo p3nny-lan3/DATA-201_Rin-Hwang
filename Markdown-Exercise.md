@@ -50,6 +50,8 @@ def greet(name):
 
 greet("Rin Hwang")
 ```
-
-
-
+### Table
+| Film | Year Released | Rating |
+| ---- | ------------- | ------ |
+| Tokyo Story  | 1953  | 4.4/5  |
+| Dune: Part Two  | 2024  | 4.1/5 |
