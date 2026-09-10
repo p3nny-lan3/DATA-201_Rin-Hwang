@@ -27,5 +27,7 @@ To read The New York Times, click [here](https://www.nytimes.com/).
 
 ### Images
 #### Rin's favorite film  
-*Fallen Angels* 1995  
+
+*Fallen Angels* (1995)  
+
 ![*Fallen Angels* 1995 French Release](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJRIRHTDqy20CIgMZukeFmsKnA6OvLiHXV1vEctxHEH--erzYnmLVeRkU&s=10)  
