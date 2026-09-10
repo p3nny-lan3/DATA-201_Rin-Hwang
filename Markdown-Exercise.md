@@ -12,9 +12,9 @@ September 10, 2026
 
 ### Lists
 #### Ordered list
-1. Eat breakfast  
-2. Go to class
-3. Head to gym
+1. First place  
+2. Second place
+3. Third place
 #### Unordered list
 - Milk
 - Eggs
